@@ -1,2 +1,3 @@
-"# Event-Drivent-Golang-RabbitMQ" 
-"# Event-Driven-Golang-RabbitMQ-" 
+# Event-Drivent-Golang-RabbitMQ
+# Build simple Microservices using event driven orchestration architechtur
+
